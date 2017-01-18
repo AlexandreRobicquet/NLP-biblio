@@ -10,6 +10,10 @@ The papers are organized based on manually-defined bookmarks. <br>
 
 
 #### Any suggestions and pull requests are welcome. 
+# Classes
+
+cs224n - stanford university
+
 
 # Bookmarks
   * All Papers
