@@ -3,7 +3,7 @@
 more to come 
 
 
-# Dialogue Generation Papers
+## Dialogue Generation Papers
 
 A list of recent papers regarding dialog generation. <br>
 The papers are organized based on manually-defined bookmarks. <br>
